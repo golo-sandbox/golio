@@ -58,5 +58,7 @@ You need maven : `mvn compile assembly:single`
 
 - put content of cdn in cache
 - add some colors
+- review directory creation (bug ?)
+- see if replacing bozzo by jackson worth
 
 
